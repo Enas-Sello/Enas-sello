@@ -1,15 +1,12 @@
 [![MasterHead](https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif)](https://rishavchanda.io)
 <h1 align="center">Hi there 👋 , I'm ⭐ Enas Awad ⭐</h1>
-<h3 align="center">Full Stake developer ❤️</h3>
+<h3 align="center">Full Stack developer ❤️</h3>
 
 
-- 🌱 I’m currently learning **Mearn with ITI**
-
-- 📫 E-mail: **enas.awad169@gmail.com**
-
-
+ <h3 align="center">🌱 I’m currently learning MEARN Stack with ITI 👨‍💻 </h3>
 <h3 align="left">Connect with me:</h3>
 
+ 📫 E-mail: **enas.awad169@gmail.com**
 <p align="left">
     <a href="https://codepen.io/https://codepen.io/enas-sello" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
@@ -19,6 +16,7 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="https://www.linkedin.com/in/enas-sellow-36153219a/" height="50" width="60" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
