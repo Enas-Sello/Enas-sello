@@ -90,12 +90,4 @@
         alt="enas-sello" />
 </p>
 
-<p>&nbsp;
- <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=enas-sello&show_icons=true&locale=en"
-        alt="enas-sello" />
-</p>
 
-<p>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enas-sello&" alt="enas-sello" />
-</p>
