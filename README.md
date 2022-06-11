@@ -9,9 +9,9 @@
 
  📫 E-mail: **enas.awad169@gmail.com**
 <p align="left">
-    <a href="https://codepen.io/https://codepen.io/enas-sello" target="blank"><img align="center"
+<!--     <a href="https://codepen.io/https://codepen.io/enas-sello" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-            alt="https://codepen.io/enas-sello" height="50" width="60" /></a>
+            alt="https://codepen.io/enas-sello" height="50" width="60" /></a> -->
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/enas-sellow-36153219a/" target="blank"><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
